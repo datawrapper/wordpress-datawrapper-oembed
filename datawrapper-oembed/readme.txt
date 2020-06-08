@@ -1,6 +1,5 @@
-=== Plugin Name ===
+=== datawrapper-oembed ===
 Contributors: drivenbydata
-Donate link: https://example.com/
 Tags: oembed, data visualizaton
 Requires at least: 4.7
 Tested up to: 5.4
