@@ -14,20 +14,20 @@ Registers Datawrapper as oEmbed provider so charts, maps, and tables created wit
 
 [Datawrapper](https://www.datawrapper.de/) is an online tool with which you can create interactive and responsive charts, maps, and tables. **Datawrapper is free to use**, so you can create and publish unlimited visualizationas, download them as PNGs and collaborate in teams. The [paid plan](https://www.datawrapper.de/pricing/) is the right choice if you need a custom design, or PDF and SVG export. 
 
-The **Datawrapper oEmbed** plugin makes lets you paste Datawrapper URLs to embed Datawrapper visualizations in WordPress.com and WordPress.org websites. [Learn more in the Datawrapper Academy](https://academy.datawrapper.de/article/203-how-to-embed-charts-in-wordpress).
+The **Datawrapper oEmbed** plugin lets you paste Datawrapper URLs to embed Datawrapper visualizations in WordPress.com and WordPress.org websites. [Learn more in the Datawrapper Academy](https://academy.datawrapper.de/article/203-how-to-embed-charts-in-wordpress).
 
 
 == Frequently Asked Questions ==
 
 = What does this plugin enable me to do? =
 
-Once you installed this plugin, you can paste Datawrapper chart URLs into your Wordpress articles/sites and they will turn into beautiful responsive and interactive embeds.
+Once you've installed this plugin, you can paste Datawrapper chart URLs into your WordPress articles/sites and they will turn into beautiful responsive and interactive embeds.
 
 = How does it work? =
 
 To place a Datawrapper chart, map or table into your WordPress article, simple paste its URL (e.g. [https://datawrapper.dwcdn.net/8Wwvx/](https://datawrapper.dwcdn.net/8Wwvx/)). Your visualization will appear and will be interactive when you publish or preview the article. 
 
-For a detailed how to with images, visit the Datawrapper Academy article **["How to embed charts in Wordpress articles"](https://academy.datawrapper.de/article/203-how-to-embed-charts-in-wordpress)**.
+For a detailed how-to with images, visit the Datawrapper Academy article **["How to embed charts in Wordpress articles"](https://academy.datawrapper.de/article/203-how-to-embed-charts-in-wordpress)**.
 
 = Do I need a Datawrapper account to use this plugin? =
 
