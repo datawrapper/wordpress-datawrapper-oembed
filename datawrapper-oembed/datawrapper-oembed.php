@@ -4,7 +4,7 @@
  * @version 1.1
  */
 /*
-Plugin Name: Datawrapper OEmbed
+Plugin Name: Datawrapper oEmbed
 Plugin URI: http://wordpress.org/plugins/datawrapper-oembed/
 Description: Registers Datawrapper as oembed provider so charts, maps, and tables created with Datawrapper can be embedded in WordPress.
 Author: Datawrapper GmbH

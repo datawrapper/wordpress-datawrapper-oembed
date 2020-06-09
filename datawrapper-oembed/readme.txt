@@ -1,4 +1,4 @@
-=== Datawrapper OEmbed ===
+=== Datawrapper oEmbed ===
 Contributors: drivenbydata
 Tags: oembed, data visualizaton
 Requires at least: 4.7
