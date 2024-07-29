@@ -17,6 +17,7 @@ License: GPLv2 or later
 function datawrapper_oembed_provider() {
 
 	wp_oembed_add_provider( 'https://datawrapper.dwcdn.net/*', 'https://api.datawrapper.de/v3/oembed', false );
+	wp_oembed_add_provider( 'https://www.datawrapper.de/_/*', 'https://api.datawrapper.de/v3/oembed', false );
 
 }
 add_action( 'init', 'datawrapper_oembed_provider' );
